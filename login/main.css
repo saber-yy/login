@@ -1,0 +1,17 @@
+*,body,div,p,a,table,td,input,option,textarea,select{margin:0; padding:0; font-family:"微软雅黑"; -webkit-box-sizing: border-box; font-size:14px; background:#e0edfe;}
+.content{ width:952px; height:476px; position:absolute; top:50%; margin-top:-238px; left:50%; margin-left:-476px; background:#fff; box-shadow: 4px 4px 8px #dbecff;}
+.shadow{ width:952px; height:80px; background:#e0edfe url(img/shadow.png) no-repeat; position:absolute; top:50%; margin-top:238px; }
+.topBg{ width:1000px; height:563px; position:absolute; right:0; top:0; background:url(img/bg.png) no-repeat;}
+.left{ width:360px; float:left; height:476px; background:#fff; position:relative;}
+.logo{ width:269px; height:61px; background:url(img/logo.png) no-repeat; background-size:100% 100%; margin:0 auto; margin-top:215px;}
+.leftBg{ position:absolute; left:0; bottom:0; background:url(img/leftBg.png) no-repeat; width:203px; height:164px;}
+.right{ width:592px; float:right; height:100%; background:linear-gradient(180deg,#44a5f6,#0573ec); position:relative;}
+.tit{ text-align:center; color:#fff; font-size:20px; background:none; margin-top:120px; margin-bottom:40px;}
+.clear{ clear:both;}
+.write{ width:394px; margin:0 auto; background:none;}
+.input{ height:33px; background:#fff; border:none; display:block; width:100%; border-radius:8px; outline:none; padding:0 12px; color:#222; margin-bottom:14px;}
+.input::placeholder{ color:#ababab;}
+.button{ background:#fff; border-radius:8px; text-align:center; width:98px; height:33px; line-height:33p; color:#006aea; border:none; font-size:15px; float:right; margin-top:20px;}
+.tis{ position:absolute; bottom:40px; right:44px; background:none; color:#fff;}
+.tis i{ width:58px; height:18px; background:url(img/qute_logo.png) no-repeat; background-size:100% 100%; display:block; float:left; margin-right:10px;}
+.car{ width:81px; height:75px; background:url(img/car1.png) no-repeat; background-size:100% 100%; display:block; right:40px; top:-40px; position:absolute;}
